@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WifiIperf</string>
+
+    <string name="wifi_manager">WIFI管理</string>
+    <string name="wifi_address">WIFI地址：</string>
+    <string name="wifi_throughput_show">吞吐量：</string>
+    <string name="wifi_signal_strength">信号强度：</string>
+    <string name="wifi_service">服务端</string>
+    <string name="wifi_client">客户端</string>
+    <string name="wifi_hint">注意：第一次进行吞吐量测试时，请先退出整个应用再进入</string>
+</resources>
